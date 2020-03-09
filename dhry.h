@@ -385,6 +385,7 @@
 
 #include <stdio.h>
                 /* for strcpy, strcmp */
+#include <string.h>
 
 #define Null 0 
                 /* Value of a Null pointer */

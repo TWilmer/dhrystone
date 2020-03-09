@@ -1,3 +1,9 @@
+
+ Compile with 
+   gcc -DTIME -DHZ=60 dhry*.c
+
+
+
 This "shar" file contains the documentation for the
 electronic mail distribution of the Dhrystone benchmark (C version 2.1);
 a companion "shar" file contains the source code.
